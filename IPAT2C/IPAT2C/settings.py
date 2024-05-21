@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'ipat2c.urls'
+ROOT_URLCONF = 'IPAT2C.urls'
 
 TEMPLATES = [
     {
@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'ipat2c.wsgi.application'
+WSGI_APPLICATION = 'IPAT2C.wsgi.application'
 
 
 # Database
